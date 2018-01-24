@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 
+// Week 3 Validate Form Exercise
+
 class App extends Component {
   constructor(props){
     super(props);
